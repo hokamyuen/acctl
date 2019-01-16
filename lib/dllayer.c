@@ -29,7 +29,7 @@
 #include <arpa/inet.h>
 #include <sys/socket.h>
 #include <netpacket/packet.h>
-#include <net/ethernet.h>
+//#include <net/ethernet.h>
 #include <net/if_arp.h>
 #include <pthread.h>
 #include <fcntl.h>
